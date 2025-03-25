@@ -1,5 +1,5 @@
 # All_Crawler
-All_Crawler：一站式全球搜索与自媒体爬虫解决方案/n
+All_Crawler：一站式全球搜索与自媒体爬虫解决方案
 All_Crawler 旨在打造 最强大的全网爬取工具，集成全球各大搜索引擎及自媒体平台的数据抓取功能。
 无论是 Google、Bing、Yandex，还是 YouTube、Twitter、TikTok，我们的爬虫都能高效获取关键信息，助力数据分析、情报挖掘、SEO 研究等多种应用场景。 
 🚀 核心特性
